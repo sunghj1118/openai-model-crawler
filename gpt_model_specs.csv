@@ -1,0 +1,53 @@
+Model,Description,Details URL
+GPT-5,The best model for coding and agentic tasks across domains,https://platform.openai.com/docs/models/gpt-5
+GPT-5 mini,"A faster, cost-efficient version of GPT-5 for well-defined tasks",https://platform.openai.com/docs/models/gpt-5-mini
+GPT-5 nano,"Fastest, most cost-efficient version of GPT-5",https://platform.openai.com/docs/models/gpt-5-nano
+GPT-4.1,Smartest non-reasoning model,https://platform.openai.com/docs/models/gpt-4.1
+gpt-oss-120b,"Most powerful open-weight model, fits into an H100 GPU",https://platform.openai.com/docs/models/gpt-oss-120b
+gpt-oss-20b,Medium-sized open-weight model for low latency,https://platform.openai.com/docs/models/gpt-oss-20b
+o3-deep-research,Our most powerful deep research model,https://platform.openai.com/docs/models/o3-deep-research
+o4-mini-deep-research,"Faster, more affordable deep research model",https://platform.openai.com/docs/models/o4-mini-deep-research
+GPT Image 1,State-of-the-art image generation model,https://platform.openai.com/docs/models/gpt-image-1
+DALL·E 3,Previous generation image generation model,https://platform.openai.com/docs/models/dall-e-3
+GPT-4o mini TTS,Text-to-speech model powered by GPT-4o mini,https://platform.openai.com/docs/models/gpt-4o-mini-tts
+GPT-4o Transcribe,Speech-to-text model powered by GPT-4o,https://platform.openai.com/docs/models/gpt-4o-transcribe
+GPT-4o mini Transcribe,Speech-to-text model powered by GPT-4o mini,https://platform.openai.com/docs/models/gpt-4o-mini-transcribe
+GPT-4o Realtime,Model capable of realtime text and audio inputs and outputs,https://platform.openai.com/docs/models/gpt-4o-realtime-preview
+GPT-4o mini Realtime,Smaller realtime model for text and audio inputs and outputs,https://platform.openai.com/docs/models/gpt-4o-mini-realtime-preview
+GPT-5 Chat,GPT-5 model used in ChatGPT,https://platform.openai.com/docs/models/gpt-5-chat-latest
+ChatGPT-4o,GPT-4o model used in ChatGPT,https://platform.openai.com/docs/models/chatgpt-4o-latest
+o3-pro,Version of o3 with more compute for better responses,https://platform.openai.com/docs/models/o3-pro
+GPT-4o Audio,GPT-4o models capable of audio inputs and outputs,https://platform.openai.com/docs/models/gpt-4o-audio-preview
+o3,"Reasoning model for complex tasks, succeeded by GPT-5",https://platform.openai.com/docs/models/o3
+o4-mini,"Fast, cost-efficient reasoning model, succeeded by GPT-5 mini",https://platform.openai.com/docs/models/o4-mini
+GPT-4.1 mini,"Smaller, faster version of GPT-4.1",https://platform.openai.com/docs/models/gpt-4.1-mini
+GPT-4.1 nano,"Fastest, most cost-efficient version of GPT-4.1",https://platform.openai.com/docs/models/gpt-4.1-nano
+o1-pro,Version of o1 with more compute for better responses,https://platform.openai.com/docs/models/o1-pro
+computer-use-preview,Specialized model for computer use tool,https://platform.openai.com/docs/models/computer-use-preview
+GPT-4o mini Search Preview,"Fast, affordable small model for web search",https://platform.openai.com/docs/models/gpt-4o-mini-search-preview
+GPT-4o Search Preview,GPT model for web search in Chat Completions,https://platform.openai.com/docs/models/gpt-4o-search-preview
+GPT-4.5 Preview (Deprecated),Deprecated large model.,https://platform.openai.com/docs/models/gpt-4.5-preview
+o3-mini,A small model alternative to o3,https://platform.openai.com/docs/models/o3-mini
+GPT-4o mini Audio,Smaller model capable of audio inputs and outputs,https://platform.openai.com/docs/models/gpt-4o-mini-audio-preview
+o1,Previous full o-series reasoning model,https://platform.openai.com/docs/models/o1
+omni-moderation,Identify potentially harmful content in text and images,https://platform.openai.com/docs/models/omni-moderation-latest
+o1-mini,A small model alternative to o1,https://platform.openai.com/docs/models/o1-mini
+o1 Preview,Preview of our first o-series reasoning model,https://platform.openai.com/docs/models/o1-preview
+GPT-4o,"Fast, intelligent, flexible GPT model",https://platform.openai.com/docs/models/gpt-4o
+GPT-4o mini,"Fast, affordable small model for focused tasks",https://platform.openai.com/docs/models/gpt-4o-mini
+GPT-4 Turbo,An older high-intelligence GPT model,https://platform.openai.com/docs/models/gpt-4-turbo
+babbage-002,Replacement for the GPT-3 ada and babbage base models,https://platform.openai.com/docs/models/babbage-002
+codex-mini-latest,Fast reasoning model optimized for the Codex CLI,https://platform.openai.com/docs/models/codex-mini-latest
+DALL·E 2,Our first image generation model,https://platform.openai.com/docs/models/dall-e-2
+davinci-002,Replacement for the GPT-3 curie and davinci base models,https://platform.openai.com/docs/models/davinci-002
+GPT-3.5 Turbo,Legacy GPT model for cheaper chat and non-chat tasks,https://platform.openai.com/docs/models/gpt-3.5-turbo
+GPT-4,An older high-intelligence GPT model,https://platform.openai.com/docs/models/gpt-4
+GPT-4 Turbo Preview,An older fast GPT model,https://platform.openai.com/docs/models/gpt-4-turbo-preview
+text-embedding-3-large,Most capable embedding model,https://platform.openai.com/docs/models/text-embedding-3-large
+text-embedding-3-small,Small embedding model,https://platform.openai.com/docs/models/text-embedding-3-small
+text-embedding-ada-002,Older embedding model,https://platform.openai.com/docs/models/text-embedding-ada-002
+text-moderation,Previous generation text-only moderation model,https://platform.openai.com/docs/models/text-moderation-latest
+text-moderation-stable,Previous generation text-only moderation model,https://platform.openai.com/docs/models/text-moderation-stable
+TTS-1,Text-to-speech model optimized for speed,https://platform.openai.com/docs/models/tts-1
+TTS-1 HD,Text-to-speech model optimized for quality,https://platform.openai.com/docs/models/tts-1-hd
+Whisper,General-purpose speech recognition model,https://platform.openai.com/docs/models/whisper-1
